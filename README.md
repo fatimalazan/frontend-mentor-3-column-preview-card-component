@@ -48,7 +48,7 @@ I've learned how to use CSS line-clamp and implemented it to my code. And to mak
 
 ### Continued development
 
-I need to understand better the concept of Flexbox since it's really useful for creating layouts. Another thing is, to get better as well in Responsive Web Designing and Media Queries. I also need to get familiarized more of the BEM Methodology to my future challenges and projects.
+I need to understand better the concept of Flexbox since it's really useful for creating layouts. Another thing is, to get better as well in Responsive Web Designing and Media Queries. I also need to get familiarized more with the BEM Methodology to my future challenges and projects.
 
 ### Useful Resources
 
