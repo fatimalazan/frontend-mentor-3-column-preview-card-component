@@ -95,9 +95,15 @@ a { text-decoration: none; }
 }
 
 .attribution {
+    color: #C0C0C0;
+    font-size: 12px;
     text-align: center;
     margin-top: 50px;
 
+}
+
+.attribution a {
+    color: #808080;
 }
 
 @media only screen and (max-width: 1379px) and (min-width: 500px){
